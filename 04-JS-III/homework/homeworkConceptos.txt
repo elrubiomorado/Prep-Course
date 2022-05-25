@@ -1,0 +1,2 @@
+arreglos - Los arreglos son como variables, la cosa es que las variables son como cajas que contienen datos pero los arreglos son 
+como cajas con mas cajas dentro.
