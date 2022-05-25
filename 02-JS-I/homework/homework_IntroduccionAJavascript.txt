@@ -1,0 +1,17 @@
+Explicaciones de los siguientes conceptos
+
+Variables: Las variables son cajitas que guardan informacion, que cuando necesitas dicha información lo unico que debes de hacer es llamarla por su nombre y se abrira para mostrarte su contenido.
+
+String: Un string es informacion de tipo texto exclusivamente, estos se escriben entre comillas.
+
+Funciones: Las funciones al igual que las variables guardan informacion, regularmente tienen un nombre para ser llamadas y acceder a su informacion, la gran diferencia es que las funciones guardan
+instrucciones que se ejecutan cada vez que esta es llamada, esto nos ahorra mucho codigo, ya que si quieres hacer 20 multiplicaciones y imprimir su contenido tienes que repetir su codigo para cada 
+multiplicación esto llevaria mucho tiempo y espacio, aqui es donde entra la función, las funciones pueden recibir argumentos que pueden ser los numeros que vas a multiplicar, asi que para ahorra codigo 
+creas una sola vez una funcion que reciba como argumento los 2 numeros a multiplicar y que dentro contenga la estructura para realizar la operacion, asi cuando quieras realizar una multiplicacion solo
+necesitas llamar a la funcion y ponerle como argumento los numeros a multiplicar.
+
+Declaraciones if: Las declaraciones if son bloques de codigo que sirven para poner condiciones para ejecutar una parte del codigo, por ejemplo, si quieres que una parte del codigo se ejecute solo
+cuando un numero a sea mayor a un numero b aqui utilizamos if con la condicion de que solo se ejecute cuando a > b, asi si no cumple esa condicion no se ejecutara esa parte de codigo.
+
+Valores boolenos: Los valores booleanos son solo 2, los cuales son true y false que traducidos son verdadero y false o en electronica 0 y 1 o si y no.
+
