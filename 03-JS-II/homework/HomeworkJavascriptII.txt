@@ -1,0 +1,16 @@
+Explicando conceptos a niños
+
+for - El for es un bucle de repeticion de código, el cual repite la ejecucion de todo el código contenido dentro de el hasta que la
+condicion dentro de el sea falsa.
+
+And && - Se utiliza para evaluar condiciones, con este operador podemos decirle a un if que necesitamos que para que se ejecute dos
+condiciones sean verdaderas, por ejemplo if(5 > 0 && 5 > 1) este if se ejecutaria por que sus dos comparaciones dan como resultado true
+pero en cambio este if(5 < 9 && 5>10) no se ejecutaria, por que aunque una de sus condiciones es verdad la otra no lo es
+
+Or || - Este es similar al and, sirve para concatenar varias condiciones, pero en cambio a este solo le importa que una de las condicione
+sea verdad, la unica posibilidad para que no se ejecute un if con or es que todas las condiciones sean falsas, ejemplo if(5 > 1|| 5>10)
+este if si se ejecutaria debido a que una de las condiciones es verdad, en cambio este if(5 > 10 || 5 > 100) este no se ejecutaria
+debido a que ninguna de sus condiciones es verdad, tambien se ejecuta cuando ambas condiciones es verdad if(5 > 1 || 5 > 2).
+
+Not ! - Este lo unico que hace es llevar la contra, por ejemplo si una esta un !true, este lo convierte en false y si esta un !false
+este lo convierte en un true.
