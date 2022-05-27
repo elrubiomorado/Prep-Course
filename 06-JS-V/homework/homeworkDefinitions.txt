@@ -1,0 +1,7 @@
+Definiciones
+prototype - Yo tampoco quede del todo claro con que es el prototype pero dire lo que entiendo
+El prototype es el objeto en el cual se basan los objetos, se puede decir que es el padre del objeto que estas usando, es la base
+para crear un objeto.
+
+Constructor de clases - El Constructor es el que nos permite inicializar las propiedades de una clase, debido a que este
+es el que acepta los parametros que agregue el usuario.
